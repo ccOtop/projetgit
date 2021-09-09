@@ -1,4 +1,13 @@
 body {
     background-color: rgb(33, 33, 33);
     color: rgb(200, 200, 200);
+    /* text-align: center; */
+}
+
+h2 {
+    color: chartreuse;
+}
+
+p {
+    color: aqua;
 }
